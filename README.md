@@ -15,7 +15,7 @@ This project will use different images with same size and dimention to encrypt a
 
 ![Encryption](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/TimingEnc.png)
 
-Above graph illustrate the time comparison betweenregular RSA and the Chaos-based RSA. The images that we used, we got that the result that Chaos-based algorithm takes much less time than the regular RSA.
+Above graph illustrate the time comparison between regular RSA and the Chaos-based RSA. The images that we used, we got that the result that Chaos-based algorithm takes much less time than the regular RSA.
 
 
 ![Decryption](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/TimingDec.png)
