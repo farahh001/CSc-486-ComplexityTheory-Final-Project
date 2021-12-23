@@ -13,7 +13,9 @@ This project will use different images with same size and dimention to encrypt a
 
 ![Encryption](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/TimingEnc.png)
 
+The graph shows the encrypted time of the regular RSA method and the Chaos-based RSA method. For this, experiment, we used the same images with the same size (250 x 250) and dimension (2D). And we got the result that the Chaos-based RSA algorithm takes much less time than regular RSA. Than means that Chaos-based RSA is faster than the regular RSA.
+
 
 ![Decryption](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/TimingDec.png)
 
-
+The graph shows the decrypted time of the regular RSA method and the Chaos-based RSA method. For this, experiment, we used the same encrypted images with the same size (250 x 250) and dimension (2D). And we got the result that the Chaos-based RSA algorithm takes much less time than regular RSA. That means the Chaos-based RSA algorithm is faster in decryption.
