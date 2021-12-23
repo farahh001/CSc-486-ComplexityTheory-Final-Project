@@ -3,12 +3,17 @@ The goal of the research paper is to encrypt and decrypt images of different siz
 and decryption. In addition to the efficiency, we will analyze if there is any data lost in the decrypted images i.e if the decrypted gray or color image comes 
 out to be exactly as the corresponding original image. 
 
-## 
-
-![Our RSA Encrypted System](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/RSA_ENC_DEC.png)
-
 # Our Goal
 This project will use different images with same size and dimention to encrypt and decrytp using two algorithm, origina RSA and Chaos-based RSA. It will find the encryption time and decryption time of those images. Then it will compare the time, space and security complexity of each algorithm based on the generated data. Lastly, it will give the most efficient algorithm to encrypt and decrypt images.
 
+
+# Our Findings
+
+![Our RSA Encrypted System](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/RSA_ENC_DEC.png)
+
+![Encryption](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/TimingEnc.png)
+
+
+![Decryption](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/TimingDec.png)
 
 
