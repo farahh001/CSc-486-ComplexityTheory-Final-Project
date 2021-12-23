@@ -7,7 +7,7 @@ out to be exactly as the corresponding original image.
 
 ![Our RSA Encrypted System](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/RSA_ENC_DEC.png)
 
-#Our Goal
+# Our Goal
 This project will use different images with same size and dimention to encrypt and decrytp using two algorithm, origina RSA and Chaos-based RSA. It will find the encryption time and decryption time of those images. Then it will compare the time, space and security complexity of each algorithm based on the generated data. Lastly, it will give the most efficient algorithm to encrypt and decrypt images.
 
 
