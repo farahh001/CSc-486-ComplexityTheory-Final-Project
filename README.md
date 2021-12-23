@@ -9,9 +9,10 @@ This project will use different images with same size and dimention to encrypt a
 
 # Our Findings
 
-First, sender encrypted an image using a public key that is known to all, then the encrypted image send to the receiver. After that the receiver decrypt the image with the private key, which is known only by the owner.
 
 ![Our RSA Encrypted System](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/RSA_ENC_DEC.png)
+
+Here is the demonstation of the above image, the sender encrypted an image using a public key that is known to all, then the encrypted image send to the receiver. After that the receiver decrypt the image with the private key, which is known only by the owner.
 
 ![Size Comaparison](https://github.com/farahh001/CSc-486-ComplexityTheory-Final-Project/blob/main/images/RSAvsChaos.png)
 
